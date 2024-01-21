@@ -1,0 +1,51 @@
+1. Why do you like to join as a Software developer?
+    Though I'm from circuit branches, Becoming a software developer is exciting for me because it's like being a digital architect. I get to build things from scratch, solve puzzles, and bring ideas to life and get satisfaction in seeing my code turn into functional applications.
+
+2. List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+    Visual Studio Code (VSCode): I love the simplicity and efficiency of VSCode. It's feature-rich, customizable, and has a vibrant extension ecosystem. This tool makes coding enjoyable.
+
+    React.js: React.js remains a key inspiration for its declarative and efficient way of building UI components. It promotes a modular and reusable approach, enhancing the overall development experience.
+
+    Tailwind CSS: I'm inspired by how Tailwind streamlines the styling process and allows for rapid development without sacrificing flexibility. Its utility-first approach and simplicity in styling components bring a new level of efficiency to CSS.
+
+3. List top 3 organisations you like to join in your career & why you like these organisations.
+    Google: Google is a dream for many developers and I'm one among them. I'm drawn to Google because of its innovative culture and the impactful projects they undertake. The emphasis on creativity, problem-solving, and the potential to work on cutting-edge technologies is a big pull for me.
+
+    Instagram: The dynamic environment and focus on visual storytelling at Instagram resonate with my passion for creating engaging user experiences. Joining a platform that has such a significant impact on how people connect through visuals would be incredibly fulfilling.
+
+    Spotify: I just love UI & UX of spotify. Being part of a company that revolutionizes how we consume and discover music aligns perfectly with my love for tech and creativity.
+
+4. How you position yourself in this industry after 2 years.
+    In 2 years, I envision myself as a highly proficient and seasoned web developer, specializing in the MERN stack. I aim to have a robust portfolio showcasing a variety of projects that demonstrate not only technical skills but also a deep understanding of user experience.
+
+5. List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+    Overview of the 3 projects I've built. My role in each project involved conceptualizing, designing, and implementing features, ensuring a seamless user experience.
+
+    Tick Task:
+    Description: Tick Task is a task management web app designed for efficiency and organization.
+    Features:
+        Task Management with priority levels.
+        Responsive design with Light/Dark Mode.
+    Technologies Used:
+        React, Tailwind CSS, Vite, Redux, Material Tailwind, Shadcn, LocalStorage.
+
+    ShareIT:
+    Description: ShareIT is a MERN stack app for creating and sharing content with privacy settings among users.
+    Features:
+        User Authentication, content creation, and privacy settings.
+        Public and private content options.
+    Tech Stack:
+        Frontend: React, Tailwind, MaterialTailwind.
+        Backend: Node.js, Express.js, JWT.
+        Database: MongoDB.
+
+    Countries App:
+    Description: Countries App provides information about countries worldwide using React, Tailwind CSS, and Vite.
+    Features:
+        Comprehensive country list with Wikipedia integration.
+        Search functionality and Light/Dark Mode.
+        Population and Languages Bar Chart.
+    Technologies Used:
+        React, Tailwind CSS, Vite.
+    
+    You can find above projects live demo at my GitHub.
