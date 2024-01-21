@@ -31,9 +31,14 @@ async function main(products) {
             discountAmount = (productTotalAmount * 5 / 100);
             discountString = "bulk_5_discount";
         }
-        if (totalUnits >= 30 && q > 15) {
-            let sq = q - 15;
-            let amt = (parseInt(product.price.substring(1)) * sq) / 2;
+        if (totalUnits >= 30) {
+            let amt = 0;
+            currUser.forEach((p) => {
+                if (p.quantity > 15) {
+                    let sq = p.quantity - 15;
+                    amt += (parseInt(p.price.substring(1)) * sq) / 2;
+                }
+            })
             if (amt > discountAmount) {
                 discountAmount = amt;
                 discountString = "tiered_50_discount";
